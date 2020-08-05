@@ -1,6 +1,6 @@
-# magic_ball
+# magic_eye_flutter
 
-A new Flutter project.
+A flutter app to show random answers your question like a coin toss. 
 
 ## Getting Started
 
